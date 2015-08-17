@@ -32,6 +32,8 @@ namespace InjectionPractice
             string address = this.textboxPesho.Text;
             softuniContext.Database.ExecuteSqlCommand("INSERT into Addresses (AddressText, TownID) VALUES ('" + address + "', 4)");
             softuniContext.SaveChanges();
+            
+
         }
     }
 }
