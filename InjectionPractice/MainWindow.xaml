@@ -1,0 +1,10 @@
+﻿<Window x:Class="InjectionPractice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Width="120" Height="50" HorizontalAlignment="Left">Type in your address</Label>
+        <TextBox TextAlignment="Center" Width="100" Height="50" Name="textboxPesho"></TextBox>
+        <Button Width="100" Height="50" Name="buttonPesho" Click="buttonPesho_Click" HorizontalAlignment="Right">Insert person</Button>
+    </Grid>
+</Window>
