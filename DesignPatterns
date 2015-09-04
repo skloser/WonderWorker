@@ -1,2 +1,2 @@
- Abstract Factory: Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
-We use Abstract Factory when we want to create families of similar objects(Vehicle factory, Ice-cream factory, ...).
+###### Abstract Factory: Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+We use Abstract Factory when we want to create families of similar objects(Vehicle factory, Ice-cream factory, ...).######
